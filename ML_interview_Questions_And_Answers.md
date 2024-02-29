@@ -1,5 +1,5 @@
- # The Layman's Handbook to Machine Learning Interview Questions🚀📚
- ## Perfect for aspirants with up to 4 years of experience 🌱📖
+ # The Layman's Handbook to Machine Learning Interview Questions🚀
+ # Perfect for aspirants with up to 4 years of experience 🌱
  
 ### 1. Explain the difference between classification and regression in machine learning.
 
@@ -185,7 +185,7 @@
 - **Stacking**: Combines different types of models and uses a new model to learn from their predictions. Imagine a team of specialists each providing their opinion, and then a generalist makes the final decision based on those opinions.
 - **Purpose**: The main goal is to reduce errors from individual models and improve overall accuracy. It's based on the wisdom of crowds principle, where the collective judgment is often better than that of any single member of the group.
 
-- ### 21. What are some of the feature engineering techniques that you have used until now?
+### 21. What are some of the feature engineering techniques that you have used until now?
 
 - **Normalization**: Adjusting the scale of your data so that all features contribute equally. Imagine adjusting weights so one isn’t heavier than the others.
 - **One-Hot Encoding**: Turning categories (like colors or brands) into separate features to help models understand them. It's like giving each category its own column in a spreadsheet.
