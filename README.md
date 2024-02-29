@@ -40,7 +40,7 @@ Don't miss our tips section, where we share advice on everything from optimizing
 
 ## Contributing 🤝
 
-Got something to add? Contributions are welcome! Please check out our [contributing guidelines](CONTRIBUTING.md) for more information.
+Got something to add? Contributions are welcome! 
 
 ## Connect With Us 🌐
 
@@ -51,10 +51,5 @@ Got something to add? Contributions are welcome! Please check out our [contribut
 
 If you find this repository helpful, consider giving it a star ⭐ or sharing it with friends and colleagues.
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-Happy Learning! 🎓 Let's make the data science journey exciting together! 🚀
